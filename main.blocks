@@ -1,0 +1,35 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="MniLy4NeF]II3c#c/SWO">mySprite</variable><variable type="KIND_SpriteKind" id="zSK3O|K:]DLmlYU(HKJ*">Player</variable><variable type="KIND_SpriteKind" id="eo{uDg#:PoR|[vbIx.cc">Projectile</variable><variable type="KIND_SpriteKind" id="WD7:Z=daX!8$gVRNfyve">Food</variable><variable type="KIND_SpriteKind" id="7G`s8Sdr%h14|)+x~xJ[">Enemy</variable></variables><block type="pxt-on-start" id=":Yk/{{/ic-Y,,Z%Odv=R" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="EC]D/6xl_5UV-rS%ud_^"><field name="VAR" id="MniLy4NeF]II3c#c/SWO">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="/l*YW%yzGR*BN,Z1GL[Q"><value name="img"><shadow type="screen_image_picker"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image1"}}</data></shadow><block type="screen_image_picker" id="V;l}PC5p5SgC*Vt.C-/$"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image1"}}</data></block></value><value name="kind"><shadow type="spritekind" id="a4ALWCAe!GaJi-K9u)~J"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
